@@ -1,5 +1,5 @@
 products:
-	displayCount: 10
-	sortBy: name
+  displayCount: 10
+  sortBy: name
 allowGuestsToWritReviews: true
 
